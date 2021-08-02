@@ -1,7 +1,7 @@
 {
     "dde-top-panel": {
         "Package": "dde-top-panel",
-        "Deb Url": ["https://github.com/SeptemberHX/dde-top-panel/releases/download/0.6.3/dde-top-panel-0.6.3-DeepinV20.deb"]
+        "Deb Url": ["https://github.com/SeptemberHX/dde-top-panel/releases/download/0.6.3/dde-top-panel-0.6.3-DeepinV20.deb", "https://github.com/SeptemberHX/dde-globalmenu-service/releases/download/1.0/dde-globalmenu-service-1.0.0-Deepin-V20.2.deb"]
     },
     "top.yzzi.yiyanwidget": {
         "Package": "top.yzzi.yiyanwidget",
