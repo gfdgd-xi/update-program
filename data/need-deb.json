@@ -1,0 +1,207 @@
+{
+    "dde-top-panel": {
+        "Package": "dde-top-panel",
+        "Deb Url": ["https://github.com/SeptemberHX/dde-top-panel/releases/download/0.6.3/dde-top-panel-0.6.3-DeepinV20.deb"]
+    },
+    "top.yzzi.yiyanwidget": {
+        "Package": "top.yzzi.yiyanwidget",
+        "Deb Url": ["https://d.store.deepinos.org.cn//store/themes/top.yzzi.yiyanwidget/top.yzzi.yiyanwidget_1.0_amd64.deb"]
+    },
+    "top.yzzi.musicwidget": {
+        "Package": "top.yzzi.musicwidget",
+        "Deb Url": ["https://d.store.deepinos.org.cn//store/themes/top.yzzi.musicwidget/top.yzzi.musicwidget_1.0_amd64.deb"]
+    },
+    "top.yzzi.isfriwidget": {
+        "Package": "top.yzzi.isfriwidget",
+        "Deb Url": ["https://d.store.deepinos.org.cn//store/themes/top.yzzi.isfriwidget/top.yzzi.isfriwidget_1.0_amd64.deb"]
+    },
+    "top.yzzi.youjian": {
+        "Package": "top.yzzi.youjian",
+        "Deb Url": ["https://gitee.com/Limexb/oh-my-dde/attach_files/690849/download/top.yzzi.youjian_1.0.1_amd64.deb"]
+    },
+    "unsplash-wallpapers": {
+        "Package": "unsplash-wallpapers",
+        "Deb Url": ["https://d.store.deepinos.org.cn//store/themes/unsplash-wallpapers/unsplash-wallpapers_1.1.0_amd64.deb"]
+    },
+    "unsplash4deepin": {
+        "Package": "unsplash4deepin",
+        "Deb Url": ["https://d.store.deepinos.org.cn//store/themes/unsplash4deepin/unsplash4deepin_1.6_amd64.deb"]
+    },
+    "fantascene-dynamic-wallpaper": {
+        "Package": "fantascene-dynamic-wallpaper",
+        "Deb Url": ["https://d.store.deepinos.org.cn//store/themes/fantascene-dynamic-wallpaper/fantascene-dynamic-wallpaper_1.0.5_amd64.deb"]
+    },
+    "top.yzzi.wallpaper": {
+        "Package": "top.yzzi.wallpaper",
+        "Deb Url": ["https://d.store.deepinos.org.cn//store/themes/top.yzzi.wallpaper/top.yzzi.wallpaper_0.3beta_amd64.deb"]
+    },
+    "Icon": [{
+            "Name": "Candy图标主题",
+            "About": "一套甜蜜的渐变图标主题",
+            "Update": "2021-01-19 15:18:58",
+            "Size": "877.98 KB",
+            "Version": "1.0spark0",
+            "Author": "eliverlara",
+            "Website": "https://github.com/EliverLara/candy-icons",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/candy-icons.spark/candy-icons.spark_1.0spark0_all.deb",
+            "Package": "candy-icons.spark"
+        },
+        {
+            "Name": "海洋风格图标主题",
+            "About": "一款海洋风格的图表主题，为你平淡的生活增添一丝大海的气息～～～",
+            "Update": "2020-07-19 21:55",
+            "Size": "1.92MB",
+            "Version": "2020.04.13-1",
+            "Author": " ",
+            "Website": "https://github.com/EliverLara/candy-icons",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/sea-icon-theme/sea-icon-theme_2020.04.13-1_all.deb",
+            "Package": "sea-icon-theme"
+        },
+        {
+            "Name": "windows10主题",
+            "About": "windows10主题",
+            "Update": "2020-06-25 18:21",
+            "Size": "10.53MB",
+            "Version": "1.0",
+            "Author": "Panasony",
+            "Website": " ",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/windows10-icons/windows10-icons_1.0_amd64.deb",
+            "Package": "windows10-icons"
+        },
+        {
+            "Name": "Smartisan主题",
+            "About": "锤粉福音",
+            "Update": "2020-06-25 18:17",
+            "Size": "6.22MB",
+            "Version": "1.0",
+            "Author": "Panasony",
+            "Website": " ",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/smartisan/smartisan_1.0_amd64.deb",
+            "Package": "smartisan"
+        },
+        {
+            "Name": "blossom图标主题",
+            "About": "继承自 V20 默认新版图标主题 bloom 和 bloom-dark，替换了启动器图标为新 Deepin Logo 并保留其他新图标样式；修复了输入法图标错误显示为 Papirus 图标主题样式的问题；修复网易云音乐的logo",
+            "Update": "2021-07-22 14:54:53",
+            "Size": "26.79 KB",
+            "Version": "1.4",
+            "Author": "zty199",
+            "Website": "http://www.deepinos.org/",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/blossom/blossom_1.4_all.deb",
+            "Package": "blossom"
+        },
+        {
+            "Name": "Tela图标主题",
+            "About": "一套平面的彩色设计图标主题",
+            "Update": "2021-01-19 14:44:41",
+            "Size": "2.25 MB",
+            "Version": "1.0spark0",
+            "Author": "vinceliuice",
+            "Website": "https://github.com/vinceliuice/Tela-icon-theme",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/tela-icons.spark/tela-icons.spark_1.0spark0_all.deb",
+            "Package": "tela-icons.spark"
+        },
+        {
+            "Name": "McMuse图标主题",
+            "About": "一套多彩的仿 MAC OS 图标主题。换一套图标、换一个心情",
+            "Update": "2021-01-19 12:57:14",
+            "Size": "3.4 MB",
+            "Version": "yeyushengfan258",
+            "Author": "vinceliuice",
+            "Website": "https://github.com/yeyushengfan258/McMuse-icon-theme",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/mcmuse-icons.spark/mcmuse-icons.spark_1.0spark0_all.deb",
+            "Package": "mcmuse-icons.spark"
+        }
+    ],
+    "Mouse": [{
+            "Name": "OREO 蓝色光标",
+            "Version": "1.0",
+            "Filename": "oreo_blue_cursors_1.0_amd64.deb",
+            "Package": "oreo-blue-cursors",
+            "Author": " ",
+            "Contributor": "shenmo",
+            "Website": " ",
+            "Update": "2020-07-10 11:52",
+            "Size": "50.22KB",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/oreo-blue-cursors/oreo_blue_cursors_1.0_amd64.deb",
+            "About": "非常好看的图表主题"
+        },
+        {
+            "Name": "OREO 茶韵 光标主题",
+            "Version": "1.0",
+            "Filename": "oreo_teal_cursors_1.0_amd64.deb",
+            "Package": "oreo-teal-cursors",
+            "Author": " ",
+            "Contributor": "shenmo",
+            "Website": " ",
+            "Update": "2020-07-10 16:53",
+            "Size": "51.91KB",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/oreo-teal-cursors/oreo_teal_cursors_1.0_amd64.deb",
+            "About": "OREO 茶韵光标主题～"
+        },
+        {
+            "Name": "volantes光标主题",
+            "Version": "1.0",
+            "Filename": "volantes-cursors_1.0_amd64.deb",
+            "Package": "volantes-cursors",
+            "Author": "x-varlesh-x",
+            "Contributor": "sgb76",
+            "Website": "https://github.com/varlesh/volantes-cursors",
+            "Update": "2020-09-12 11:26:56",
+            "Size": "80 KB",
+            "About": "一套具有飞行风格的经典光标",
+            "tags": "deepin",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/volantes-cursors/volantes-cursors_1.0_amd64.deb",
+            "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/12/c11bc5c0-f4a7-11ea-b788-0980ec1a4056.png\"]",
+            "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/12/b7ef98f0-f4a7-11ea-b788-0980ec1a4056.png"
+        },
+        {
+            "Name": "macosbigsur光标主题",
+            "Version": "1.0",
+            "Filename": "macosbigsur-cursors_1.0_amd64.deb",
+            "Package": "macosbigsur-cursors",
+            "Author": "Kaiz",
+            "Contributor": "sgb76",
+            "Website": "https://github.com/ful1e5/apple_cursor",
+            "Update": "2020-09-12 12:23:38",
+            "Size": "2.97 MB",
+            "About": "一套苹果系统BigSur的光标主题",
+            "tags": "deepin",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/macosbigsur-cursors/macosbigsur-cursors_1.0_amd64.deb",
+            "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/12/b04cd1a0-f4af-11ea-9122-a3803614310b.png\"]",
+            "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/12/a9deb360-f4af-11ea-9122-a3803614310b.png"
+        },
+        {
+            "Name": "Blue-Crystal光标主题",
+            "Version": "1.0",
+            "Filename": "blue-crystal_1.0_amd64.deb",
+            "Package": "blue-crystal",
+            "Author": "优麒麟（似乎是）",
+            "Contributor": "Tippy",
+            "Website": "www.ubuntukylin.com",
+            "Update": "2021-02-06 23:40:05",
+            "Size": "137.94 KB",
+            "About": "Blue-Crystal（蓝水晶）蓝色半透明光标主题\n提取自优麒麟操作系统，优麒麟用户请勿重复安装",
+            "Tags": "deepin",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/blue-crystal/blue-crystal_1.0_amd64.deb",
+            "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/06/6a233150-6891-11eb-9b4c-dbe63ad6b41d.png\"]",
+            "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/06/64c76d70-6891-11eb-9b4c-dbe63ad6b41d.png"
+        },
+        {
+            "Name": "bibata光标主题",
+            "Version": "1.0",
+            "Filename": "bibata-cursors_1.0_amd64.deb",
+            "Package": "bibata-cursors",
+            "Author": "Kaiz",
+            "Contributor": "sgb76",
+            "Website": "https://github.com/ful1e5/Bibata_Cursor",
+            "Update": "2020-09-13 10:44:02",
+            "Size": "7.02 MB",
+            "About": "一款漂亮的光标主题，包含Classic和Ice两套主题，分别适用于系统的亮色和暗色主题",
+            "tags": "deepin",
+            "Url": "https://d.store.deepinos.org.cn//store/themes/bibata-cursors/bibata-cursors_1.0_amd64.deb",
+            "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/13/e3ed0000-f56a-11ea-8bc0-53f4ac27ecd2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/13/e88f37e0-f56a-11ea-8bc0-53f4ac27ecd2.png\"]",
+            "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/13/dfe66be0-f56a-11ea-8bc0-53f4ac27ecd2.png"
+        }
+    ]
+}
