@@ -204,8 +204,8 @@
                 null
             ],
             "Linux App Url": [
-                "https://gitee.com/gfdgd-xi/uengine-runner/attach_files/806735/download/spark-uengine-runner.deb",
-                "https://github.com/gfdgd-xi/uengine-runner/releases/download/1.4.0/spark-uengine-runner.deb"
+                "https://gitee.com/gfdgd-xi/uengine-runner/attach_files/813176/download/spark-uengine-runner.deb",
+                "https://github.com/gfdgd-xi/uengine-runner/releases/download/1.4.1/spark-uengine-runner.deb"
             ],
             "Linux App Need": [
                 "python3",
@@ -248,7 +248,7 @@
             "Architecture": "all",
             "Icon": null,
             "Picture": [
-                "https://storage.deepin.org/thread/202108191410327464_%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210819140938.png"
+                "https://storage.deepin.org/thread/20210826151947783_%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210826151312.png"
             ]
         },
         {
@@ -270,8 +270,8 @@
                 null
             ],
             "Linux App Url": [
-                "https://gitee.com/gfdgd-xi/uengine-runner/attach_files/806736/download/com.gitee.uengine.runner.spark.deb",
-                "https://github.com/gfdgd-xi/uengine-runner/releases/download/1.4.0/com.gitee.uengine.runner.spark.deb"
+                "https://gitee.com/gfdgd-xi/uengine-runner/attach_files/813177/download/com.gitee.uengine.runner.spark.deb",
+                "https://github.com/gfdgd-xi/uengine-runner/releases/download/1.4.1/com.gitee.uengine.runner.spark.deb"
             ],
             "Linux App Need": [
                 "python3",
@@ -314,7 +314,7 @@
             "Architecture": "all",
             "Icon": null,
             "Picture": [
-                "https://storage.deepin.org/thread/202108191410327464_%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210819140938.png"
+                "https://storage.deepin.org/thread/20210826151947783_%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210826151312.png"
             ]
         }
     ]
