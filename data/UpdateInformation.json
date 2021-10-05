@@ -189,9 +189,9 @@
             "Author": "gfdgd xi <3025613752@qq.com>;actionchen<917981399@qq.com>",
             "Package": "spark-uengine-runner",
             "Name": "UEngine 运行器",
-            "Version": "1.4.3",
+            "Version": "1.5.1",
             "Tips": null,
-            "New Things": "更新内容：\n※1、支持打包器打包的包名带前缀“uengine-dc”\n※2、修复了两种情况可能导致程序卡住/出错无法继续运行的情况（配置文件夹不齐全和获取版本信息卡住两种情况）\n※3、修改了 UEngine 打包器打包的应用包名可能有大写的情况\n4、支持一键使用 Scrcpy 连接 UEngine（①先安装 adb 破解补丁；②请确保是使用snap安装的 Scrcpy【目前只支持 snap 安装的 Scrcpy 进行连接】）\n5、支持右键打包 apk",
+            "New Things": "更新内容：\n※1、精简用户界面，合并安装和卸载输入框和浏览按钮等\n※2、修复安装以其的程序图标无法点击进入的问题（deepin 社区版不存在此问题）\n※3、支持在程序本体反馈问题\n4、修复了菜单栏的部分显示问题\n5、支持显示 apk 的部分信息\n6、支持删除 UEngine 程序运行检查以及重新安装 UEngine 的功能\n7、自带有跳过家庭版必须有指定包名才能运行程序限制的脚本\n8、补回依赖包“adb”",
             "About": "新版本Deepin/UOS发布后，可以在应用商店安装部分官方已适配的安卓应用，对爱好者来说，不能自己安装APK软件包始终差点意思，本程序可以为Deepin/UOS上的Uengine安卓运行环境安装自定义APK软件包，并能发送安装的APK包启动菜单到桌面或系统菜单。",
             "Code Url": [
                 "https://gitee.com/gfdgd-xi/uengine-runner",
@@ -204,8 +204,8 @@
                 null
             ],
             "Linux App Url": [
-                "https://gitee.com/gfdgd-xi/uengine-runner/attach_files/828564/download/spark-uengine-runner.deb",
-                "https://github.com/gfdgd-xi/uengine-runner/releases/download/1.4.3/spark-uengine-runner.deb"
+                "https://gitee.com/gfdgd-xi/uengine-runner/attach_files/845593/download/spark-uengine-runner_1.5.1.deb",
+                "https://github.com/gfdgd-xi/uengine-runner/releases/download/1.5.1/spark-uengine-runner_1.5.1.deb"
             ],
             "Linux App Need": [
                 "python3",
@@ -257,9 +257,9 @@
             "Author": "gfdgd xi <3025613752@qq.com>;actionchen<917981399@qq.com>",
             "Package": "com.gitee.uengine.runner.spark",
             "Name": "UEngine 运行器",
-            "Version": "1.4.3",
+            "Version": "1.5.1",
             "Tips": null,
-            "New Things": "更新内容：\n※1、支持打包器打包的包名带前缀“uengine-dc”\n※2、修复了两种情况可能导致程序卡住/出错无法继续运行的情况（配置文件夹不齐全和获取版本信息卡住两种情况）\n※3、修改了 UEngine 打包器打包的应用包名可能有大写的情况\n4、支持一键使用 Scrcpy 连接 UEngine（①先安装 adb 破解补丁；②请确保是使用snap安装的 Scrcpy【目前只支持 snap 安装的 Scrcpy 进行连接】）\n5、支持右键打包 apk",
+            "New Things": "更新内容：\n※1、精简用户界面，合并安装和卸载输入框和浏览按钮等\n※2、修复安装以其的程序图标无法点击进入的问题（deepin 社区版不存在此问题）\n※3、支持在程序本体反馈问题\n4、修复了菜单栏的部分显示问题\n5、支持显示 apk 的部分信息\n6、支持删除 UEngine 程序运行检查以及重新安装 UEngine 的功能\n7、自带有跳过家庭版必须有指定包名才能运行程序限制的脚本\n8、补回依赖包“adb”",
             "About": "新版本Deepin/UOS发布后，可以在应用商店安装部分官方已适配的安卓应用，对爱好者来说，不能自己安装APK软件包始终差点意思，本程序可以为Deepin/UOS上的Uengine安卓运行环境安装自定义APK软件包，并能发送安装的APK包启动菜单到桌面或系统菜单。",
             "Code Url": [
                 "https://gitee.com/gfdgd-xi/uengine-runner",
@@ -272,8 +272,8 @@
                 null
             ],
             "Linux App Url": [
-                "https://gitee.com/gfdgd-xi/uengine-runner/attach_files/828565/download/com.gitee.uengine.runner.spark.deb",
-                "https://github.com/gfdgd-xi/uengine-runner/releases/download/1.4.3/com.gitee.uengine.runner.spark.deb"
+                "https://gitee.com/gfdgd-xi/uengine-runner/attach_files/845594/download/com.gitee.uengine.runner.spark_1.5.1.deb",
+                "https://github.com/gfdgd-xi/uengine-runner/releases/download/1.5.1/com.gitee.uengine.runner.spark_1.5.1.deb"
             ],
             "Linux App Need": [
                 "python3",
